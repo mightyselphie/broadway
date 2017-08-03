@@ -21,4 +21,15 @@ html
   font-size: 18px;
   padding: 5px 0 5px 0;
   list-style-type: none;
+  text-align: center;
+}
+
+.Process {
+  font-family: helvetica, sans-serif;
+  text-align: center;
+}
+
+.Process h2 {
+  font-size: 32px;
+  font-weight: bold;
 }
