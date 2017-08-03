@@ -75,3 +75,8 @@ footer p {
   background-color: dimgray;
   color: white;
 }
+
+a {
+  font-family: helvetica, sans-serif;
+  color: white;
+}
