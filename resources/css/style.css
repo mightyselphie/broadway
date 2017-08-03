@@ -6,10 +6,7 @@ body {
 
 .header {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  padding-top: 20px;
-  padding-top: 20px;
+  background-size: cover;
   color: white;
   text-align: center;
 }
@@ -21,6 +18,7 @@ body {
 
 .header nav li  {
   font-size: 18px;
+  font-weight: bold;
   padding: 5px 0 5px 0;
   text-align: center;
   margin: auto;
