@@ -23,7 +23,8 @@ body {
   text-align: center;
   margin: auto;
   position: relative;
-  left: -18px;
+  left: -20px;
+  list-style-type: none;
 }
 
 .Process {
