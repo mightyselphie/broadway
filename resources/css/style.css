@@ -8,8 +8,7 @@ body {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  height: auto;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-top: 20px;
   color: white;
   text-align: center;
@@ -23,8 +22,10 @@ body {
 .header nav li  {
   font-size: 18px;
   padding: 5px 0 5px 0;
-  list-style-type: none;
   text-align: center;
+  margin: auto;
+  position: relative;
+  left: -18px;
 }
 
 .Process {
