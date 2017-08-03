@@ -56,5 +56,12 @@ body {
 .comingsoon p {
   font-size: 14px;
   text-align: center;
+}
 
+.imagebreak {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
 }
