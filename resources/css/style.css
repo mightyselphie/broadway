@@ -65,3 +65,13 @@ body {
   color: white;
   text-align: center;
 }
+
+.footerlink {
+  font-size: 18px;
+}
+
+footer p {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+}
